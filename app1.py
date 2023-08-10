@@ -2,7 +2,6 @@ import streamlit as st
 import numpy as np
 import base64
 from PIL import Image
-import cv2
 import tensorflow as tf
 from tensorflow.keras.preprocessing.image import load_img
 
